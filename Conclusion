@@ -1,1 +1,3 @@
-In this project, we tackled the problem of customer churn prediction for a telecommunications company. We created a machine learning model using a synthetic dataset that included customer attributes and churn status. The project aimed to build a predictive model that can assist the company in identifying customers who are likely to churn, enabling them to take proactive measures for retention.
+In this project, I tackled the problem of customer churn prediction for a telecommunications company.
+I created a machine learning model using a synthetic dataset that included customer attributes and churn status.
+The project aimed to build a predictive model that can assist the company in identifying customers who are likely to churn, enabling them to take proactive measures for retention.
